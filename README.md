@@ -1,4 +1,4 @@
-# My-lib - An example library project
+# gene-example-lib - An example library project
 
 ## Tasks
 
